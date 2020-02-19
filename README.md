@@ -23,3 +23,6 @@
 * [Okta](https://developer.okta.com) - Secure Login, Identity, Personalization
 * [Shopify](https://www.shopify.com/) - E-commerce Store (including payments)
 * [Stripe](https://stripe.com/) - Payments
+* [Twilio](https://www.twilio.com/) - Voice, SMS, Email
+* [Box](https://developer.box.com/)
+* [Disqus](https://disqus.com/) - Comments
