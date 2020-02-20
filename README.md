@@ -6,16 +6,24 @@
 ## Resources
 
 * [JAMstack.org](https://jamstack.org/)
-* [Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/) - Free ebook from O'Reilly and Netlify
-* [StaticGen.com](https://www.staticgen.com/) - list of static site generators
+* "[Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/)" - Free ebook from O'Reilly and Netlify
+* [JAMstack.wtf](https://jamstack.wtf/)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
 * [JAMstack E-commerce Sample](https://github.com/jamstack-cms/jamstack-ecommerce)
+* "[Secure and Scalable: an Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)"
+
+
+### Static Site Generators
+
+* [StaticGen.com](https://www.staticgen.com/) - list of static site generators
+* Popular SSGs: [Hugo](https://gohugo.io/) (Go), [Gatsby](https://www.staticgen.com/gatsby) (React/GraphQL), [Eleventy](https://www.staticgen.com/eleventy), [Next.js](https://www.staticgen.com/next) (React), [Nuxt](https://nuxtjs.org/) (Vue), [VuePress](https://vuepress.vuejs.org/)
 
 ### Headless CMS
 
 * [HeadlessCMS.org](https://headlesscms.org/) - list of content management systems for JAMstack
 * Git-based Headless CMS: [Netlify CMS](https://www.netlifycms.org/), [Forestry](https://forestry.io/), [TinaCMS](https://tinacms.org/)
 * API-based Headless CMS: [Contentful](https://www.contentful.com/), [Sanity](https://www.sanity.io/), [Ghost](https://ghost.org/), [Strapi](https://strapi.io/), [GraphCMS](https://graphcms.com/)
+* [Vendure](https://github.com/vendure-ecommerce/vendure) - Headless ecommerce framework with GraphQL build on Node.js with Nest & TypeScript
 
 ### APIs
 
@@ -24,5 +32,6 @@
 * [Shopify](https://www.shopify.com/) - E-commerce Store (including payments)
 * [Stripe](https://stripe.com/) - Payments
 * [Twilio](https://www.twilio.com/) - Voice, SMS, Email
+* [FaunaDB](https://fauna.com/) - Scalable DB, native GraphQL, built for modern serverless architecture
 * [Box](https://developer.box.com/)
 * [Disqus](https://disqus.com/) - Comments
