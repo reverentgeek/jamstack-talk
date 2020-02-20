@@ -3,13 +3,14 @@
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
 * Website: [reverentgeek.com](https://reverentgeek.com) | Twitter: [@reverentgeek](https://twitter.com/reverentgeek)
 
-## Resources
+## Learn JAMstack
 
 * [JAMstack.org](https://jamstack.org/)
 * "[Modern Web Development on the JAMstack](https://www.netlify.com/oreilly-jamstack/)" - Free ebook from O'Reilly and Netlify
 * [JAMstack.wtf](https://jamstack.wtf/)
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
 * [JAMstack E-commerce Sample](https://github.com/jamstack-cms/jamstack-ecommerce)
+* "[Build a Secure Blog with Gatsby, React, and Netlify](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)"
 * "[Secure and Scalable: an Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)"
 
 
