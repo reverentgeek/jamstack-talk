@@ -12,6 +12,7 @@
 * [JAMstack E-commerce Sample](https://github.com/jamstack-cms/jamstack-ecommerce)
 * "[Build a Secure Blog with Gatsby, React, and Netlify](https://developer.okta.com/blog/2020/02/18/gatsby-react-netlify)"
 * "[Secure and Scalable: an Introduction to JAMstack](https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack)"
+* "[Agile ecommerce that's runway ready](https://www.contentful.com/resources/agile-ecommerce-thats-runway-ready-webinar/)" - Contentful (headless CMS) webinar
 
 
 ### Static Site Generators
